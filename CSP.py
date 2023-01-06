@@ -1,6 +1,4 @@
-"""
-Written by Harry Liu (yliu17) and Tyler Nickerson (tjnickerson)
-"""
+
 import sys
 import os.path
 import pprint
